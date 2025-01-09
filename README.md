@@ -14,7 +14,7 @@ A backend for handling CSV file uploads, storing student data, and providing API
 - **POST /upload**: Upload a CSV file with student data.
 - **GET /upload**: Get paginated student data.
 - **GET /upload/history**: Get upload history.
-- **GET /upload/:id**: Get details of a specific upload.
+- **GET /upload/:id**: Get details of a specific student.
 
 ## Folder Structure
 
